@@ -1,0 +1,17 @@
+{
+  "name": "neopixel-strip-js",
+  "version": "1.0.0",
+  "description": "Using node-pixel via Johnny-Five to run sequence of LED animations on the strip or ring format",
+  "main": "server.js",
+  "dependencies": {
+    "node-pixel": "^0.3.2",
+    "johnny-five": "^0.8.76"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Cylinder Studio",
+  "license": "ISC"
+}
